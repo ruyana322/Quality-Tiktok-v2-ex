@@ -51,12 +51,12 @@ Sebelum memulai, pastikan kamu sudah menyiapkan:
 ### Android (Kiwi Browser)
 
 1. Download file `.zip` extension dari halaman **[Releases](../../releases)**
-2. Extract file ZIP di penyimpanan HP kamu
+2. install file ZIP di penyimpanan
 3. Buka **Kiwi Browser**
 4. Ketuk menu **⋮** → **Extensions**
 5. Aktifkan **Developer Mode** (pojok kanan atas)
 6. Ketuk **Load unpacked (+ from .zip)**
-7. Pilih folder hasil extract tadi
+7. Pilih folder hasil dowload tadi
 8. Extension **Quality Video TikTok** akan muncul di daftar → aktifkan
 
 ### Desktop (Chrome)
